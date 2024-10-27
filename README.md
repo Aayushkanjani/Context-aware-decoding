@@ -50,7 +50,7 @@ cd Context-aware-decoding
 
 ## Usage
 Run the example notebook to see techniques in action:<br>
-**jupyter notebook example_notebook.ipynb**
+**CAD_with_generate_function___.ipynb**
 
 
 
