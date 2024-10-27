@@ -44,9 +44,8 @@ Hallucinations can impact:
 ### Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/LLM-hallucination-reduction.git
-cd LLM-hallucination-reduction
-pip install -r requirements.txt
+git clone https://github.com/Aayushkanjani/Context-aware-decoding.git
+cd Context-aware-decoding
 ```
 
 ## Usage
